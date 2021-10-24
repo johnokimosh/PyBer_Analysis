@@ -12,7 +12,7 @@
 
 - Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types
 
-- pyber summary graphic
+![This is an image](Analysis/pyber_summary.PNG)
 
 - Ridership and total drivers is lower in rural city types when compared to urban city types.
 
@@ -22,7 +22,7 @@
 
   
 
-- pyber fare summary graphic
+![This is an image](Analysis/PyBer_fare_summary.png)
 
 - Total Fare by city type has high, mid and low points that correspond with Urban, Suburban, and Rural city types. This illustrates the disparity between the the city type categories in the previous section.
 
